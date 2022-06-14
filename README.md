@@ -1,9 +1,8 @@
-# Reinforcement Learning for Algorithmic Trading
+# QC Algorithmic Trading for Machine Learning
 
 ## Getting Started
 **Python 3.6.5**    
 
-I would reccomend creating a virtual enviorment to avoid dependancy issues.
 You can create a virtual enviorment using [Virtualenv]("https://virtualenv.pypa.io/en/latest/") if you don't already have it installed in your current python interpreter.  The current dependancies are in `requirements-cpu.txt` or gpu equivalent, and can be installed by the following commands.  
 ```
 pip3 install virtualenv
@@ -221,3 +220,6 @@ Which yeilds the following performance over out testing period.
 <p align="center"> 
     <img src="./img/IBM_M2.png">
 </p>  
+
+## Integration of the code with the trading algorithm
+It is a very simple method involving the use of execution of python codes in a serial manner, or an advanced developer can use locks and mutez to develop a system too.
