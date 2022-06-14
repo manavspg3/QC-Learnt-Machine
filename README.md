@@ -1,4 +1,4 @@
-# QC Algoo-Trading for Machine Learning
+# QC Algo-Trading for Machine Learning
 
 ## Getting Started
 **Python 3.6.5**    
