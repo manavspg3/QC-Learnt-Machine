@@ -1,6 +1,9 @@
 # QC Algo-Trading for Machine Learning
 
-## Getting Started
+## Basic Motivation
+I have seen a lot of artificial intelligence systems in various fileds, and trading is one of them. The application doesn't only remain limited to basic trading strategies, but also has potential to produce research level models, useful to create some ambigious strategies, which cannot be understood by the general public.
+
+## Basic Requirements
 **Python 3.6.5**    
 
 You can create a virtual enviorment using [Virtualenv]("https://virtualenv.pypa.io/en/latest/") if you don't already have it installed in your current python interpreter.  The current dependancies are in `requirements-cpu.txt` or gpu equivalent, and can be installed by the following commands.  
